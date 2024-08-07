@@ -1,0 +1,10 @@
+rooms:
+  building:
+    - [3.240881, 3.528023, -0.000942]
+    - [7.165526, 3.635723, -0.001787]
+    - [7.115683, 2.115140, 0.003078]
+    - [3.675011, 2.004225, -0.002005]
+    - [3.333401, 3.478214, 0.003256] # Closing the polygon by repeating the last point
+    - [3.240881, 3.528023, -0.000942] # Repeating the first point to close the polygon again
+    - [7.165526, 3.635723, -0.001787] # Repeating the second point to maintain consistency
+

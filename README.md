@@ -20,11 +20,11 @@ Autonomous Vacuum-bot with voice command recognition for path planning
 
 3. **Set Up the Workspace:** 
 
-  ``bash
-  mkdir -p ~/catkin_ws/src
-  cd ~/catkin_ws/
-  catkin_make
-  source devel/setup.bash
+   ```bash
+   mkdir -p ~/catkin_ws/src
+   cd ~/catkin_ws/
+   catkin_make
+   source devel/setup.bash
 
  4. **Clone the Packages:**
 
